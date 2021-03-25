@@ -1,1 +1,1 @@
-# mail-sorter
+# Mail Domain Sorter
