@@ -1,6 +1,6 @@
 # Mail Domain Sorter and All Word Sorter
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/v-Cx/mail-domain-sorter/releases/tag/0.1)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/v-Cx/mail-domain-sorter/releases/tag/0.2)
 
 ### What can you do with this software?
 - ✨ You can save the lines belonging to all the words you want from a text file in a separate text file.
